@@ -5,7 +5,7 @@ Robot Arm Using Arduino Mega and L293D Motor Control Module
 - [AFMotor.h](https://github.com/adafruit/Adafruit-Motor-Shield-library)
 - math.h
 
-## Mathmatical Modelling
+## Mathematical Modelling
 > [Interative Model](https://www.geogebra.org/m/aj8tkt9k)
 >  ![Geogebra Model](https://i.imgur.com/pIoHShv.jpg)
 
